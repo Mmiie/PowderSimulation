@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class Frame extends JFrame{
 
     public Frame(){
-        this.setTitle("7 days");
+        this.setTitle("powder sim");
         this.setResizable(false);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
